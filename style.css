@@ -1,0 +1,85 @@
+
+#DMCLOGO{
+  margin: 0 30px 15px 15px;
+  background-color: #FF0000;
+  box-shadow: 10px 10px 15px 0px #FF0000;
+  border-radius: 50px 5px 50px 5px;
+  border: 1px solid #FF0000;
+}
+li:hover  {
+  background: #FF2400
+}
+.nav ul li{
+  float: left;
+  width: 100px;
+  list-style: none;
+  font-size: 21px;
+  border: 10px groove #800000;
+  border-radius: 7px;
+  padding: 7px;
+  text-aligin: center;
+  margin-right: 15px;
+  color: #FFFFFF;
+}
+html{
+  background-color: #000000
+}
+h1{
+background: linear-gradient(to bottom, #ff0000, #ff8000);
+-webkit-background-clip: text;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+text-fill-color: transparent;
+}
+.nav{
+  color: #FFFFFF
+}
+#DMCLOGO{
+  margin: 0 30px 15px 15px;
+  background-color: #FF0000;
+  box-shadow: 10px 10px 15px 0px #FF0000;
+  border-radius: 50px 5px 50px 5px;
+  border: 1px solid #FF0000;
+}
+#verg{
+background: linear-gradient(to bottom, #191970, #7B68EE);
+-webkit-background-clip: text;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+text-fill-color: transparent;
+}
+#USL1{
+  margin: 0 30px 15px 15px;
+  background-color: #AFEEEE;
+  box-shadow: 10px 10px 15px 0px #AFEEEE;
+  border-radius: 50px 5px 50px 5px;
+  border: 1px solid #7FFFD4;
+}
+#USL2{
+  margin: 0 30px 15px 15px;
+  background-color: #808080;
+  box-shadow: 10px 10px 15px 0px #808080;
+  border-radius: 50px 5px 50px 5px;
+  border: 1px solid #2F4F4F;
+}
+#USL3{
+  margin: 0 30px 15px 15px;
+  background-color: #FF0000;
+  box-shadow: 10px 10px 15px 0px #FF0000;
+  border-radius: 50px 5px 50px 5px;
+  border: 1px solid #FF0000;
+}
+#USL4{
+  margin: 0 30px 15px 15px;
+  background-color: #7B68EE;
+  box-shadow: 10px 10px 15px 0px #191970;
+  border-radius: 50px 5px 50px 5px;
+  border: 1px solid #7B68EE;
+}
+h3{
+  background: linear-gradient(to bottom, #800000, #B22222);
+-webkit-background-clip: text;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+text-fill-color: transparent;
+}
